@@ -9,7 +9,7 @@ export const profile: Profile = {
     'Author of 100k ★️ javascript-algorithms repo on GitHub',
   ],
   avatar: {
-    srcPath: 'profile/Ashwini_500x500.jpg',
+    srcPath: 'profile/Ashwini_500x500.PNG',
     caption: 'Ashwini M',
   },
   location: {
