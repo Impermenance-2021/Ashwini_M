@@ -16,10 +16,10 @@ export const profile: Profile = {
     name: 'Bangalore, India',
   },
   tags: [
-    { name: 'JavaScript' },
-    { name: 'React' },
+    { name: 'Machine Learning' },
+    { name: 'Cloud Computing' },
     { name: 'Image Processing' },
-    { name: 'Virtualization' },
+    { name: 'Virtualization Technologies' },
     { name: 'Full Stack Web Devolepment' },
   ],
   socialLinks,
