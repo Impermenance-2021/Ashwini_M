@@ -7,6 +7,7 @@ export const profile: Profile = {
   position: 'Assistant Professor @ FET Jain -Deemed to be university',
   summary: [
     '★️ Educator',
+    ],
   avatar: {
     srcPath: 'profile/Ashwini_500x500.JPG',
     caption: 'Ashwini M',
