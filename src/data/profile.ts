@@ -17,6 +17,7 @@ export const profile: Profile = {
   tags: [
     { name: 'Machine Learning' },
     { name: 'Cloud Computing' },
+    { name: 'Image Processing' },
     { name: 'Linux' },
     { name: 'Virtualization Technologies' },
     { name: 'Full Stack Web Devolepment' },
