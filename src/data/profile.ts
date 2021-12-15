@@ -4,7 +4,7 @@ import { socialLinks } from './socialLinks';
 export const profile: Profile = {
   firstName: 'Ashwini',
   lastName: 'Mathur',
-  position: 'Assistant Professor @ FET Jain -Deemed to be university',
+  position: 'Asst. Prof. @FET-Jain',
   summary: [
     '★️ Educator',
     ],
