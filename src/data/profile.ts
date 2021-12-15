@@ -6,8 +6,7 @@ export const profile: Profile = {
   lastName: 'Mathur',
   position: 'Assistant Professor @ FET Jain -Deemed to be university',
   summary: [
-    'Educator ★️ Virtualization Technologies, Cloud Computing, Full Stack Web Devolepment, Enterprise Network Engineering, Linux, Amazon Web Services',
-  ],
+    ' ★️ Educator
   avatar: {
     srcPath: 'profile/Ashwini_500x500.JPG',
     caption: 'Ashwini M',
@@ -18,7 +17,7 @@ export const profile: Profile = {
   tags: [
     { name: 'Machine Learning' },
     { name: 'Cloud Computing' },
-    { name: 'Image Processing' },
+    { name: 'Linux' },
     { name: 'Virtualization Technologies' },
     { name: 'Full Stack Web Devolepment' },
   ],
