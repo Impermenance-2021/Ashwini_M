@@ -32,7 +32,7 @@ const Greeting = (): React.ReactElement => {
         open-sourcing <i>(normally it is about 1-2 hours in the morning before the work)</i>.
         Most of my open-source {projectsLinkElement} are focused
         on one thing &ndash; <i>to help people learn</i>. You may use these projects to
-        learn about Full Stack Web-Devolepment and other useful learning snippets, etc. I also write {blogLinkElement} about life, web-development
+        learn about Full Stack Web-Devolepment and other useful learning snippets, etc. I also write {blogLinkElement} about life, Cloud Computing, Virtualization, web-development
         R programming, Linux and machine learning etc...
       </p>
     </>
